@@ -25,10 +25,9 @@
 ```
 
 ## 🚀 Key Methodology
-* **1. Data Engineering:** 서울시 업종별 5개년 공공데이터를 기반으로 공간 데이터 집계 및 특성 추출(Feature Engineering). 특히 Polars 라이브러리를 활용한 고속 데이터 처리를 수행함.
-
-* **2. Spatial Analysis:** 공간 자기상관 지수(Moran's I) 분석을 통한 업종별 상권 밀집도 및 클러스터링 패턴 평가.
-* **3. Threshold Modeling:** 자기잠식이 급격히 발생하는 임계점(Threshold)을 산출하여 최적 입지 전략 모델링 구축.
+**1. Data Engineering:** 서울시 업종별 5개년 공공데이터를 기반으로 공간 데이터 집계 및 특성 추출(Feature Engineering). 특히 Polars 라이브러리를 활용한 고속 데이터 처리를 수행함.
+**2. Spatial Analysis:** 공간 자기상관 지수(Moran's I) 분석을 통한 업종별 상권 밀집도 및 클러스터링 패턴 평가.
+**3. Threshold Modeling:** 자기잠식이 급격히 발생하는 임계점(Threshold)을 산출하여 최적 입지 전략 모델링 구축.
 
 ## 📊 Results & Insights
 💡 필요 이미지 삽입
