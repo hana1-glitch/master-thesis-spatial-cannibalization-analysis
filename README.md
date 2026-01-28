@@ -22,6 +22,7 @@
 ├── sql/        # SQL pipelines for Feature Engineering & Spatial Aggregation
 ├── modeling/   # Scripts for Spatial Autocorrelation & Cannibalization Analysis
 └── results/    # Model evaluation and Visualizations (Dashboards, Maps)
+```
 
 ## 🚀 Key Methodology
 * **1. Data Engineering:** 서울시 업종별 5개년 공공데이터를 기반으로 공간 데이터 집계 및 특성 추출(Feature Engineering). 특히 Polars 라이브러리를 활용한 고속 데이터 처리를 수행함.
