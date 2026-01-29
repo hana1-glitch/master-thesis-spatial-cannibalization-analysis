@@ -1,0 +1,13 @@
+polars
+pandas
+numpy
+geopandas
+libpysal
+esda
+scipy
+matplotlib
+seaborn
+shapely
+scikit-learn
+lightgbm
+joblib
